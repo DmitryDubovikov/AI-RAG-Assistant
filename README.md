@@ -4,7 +4,6 @@ A question-answering system that uses IBM WatsonX and LangChain to process docum
 
 ## Project Files
 - `qabot.py` - Main application file with QA bot implementation
-- `assistant.py` - Alternative implementation with similar functionality
 - `requirements.txt` - List of required Python packages
 
 ## Features
